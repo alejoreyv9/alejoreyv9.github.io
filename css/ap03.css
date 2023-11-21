@@ -1,0 +1,48 @@
+body {
+ font-family: 'Montserrat', sans-serif;
+}
+
+header {
+ background-color: #333;
+ color: white;
+ text-align: center;
+ padding: 1em;
+}
+
+header .homeInicio {
+ position: absolute;
+ top: 40px;
+ right: 150px;
+ width: 50px;
+}
+
+/* Cuestionario 1 */
+.cuestionario_1 {
+ text-align: center;
+}
+
+/* Aduio1 */
+.audio1 {
+ text-align: center;
+}
+
+/* Foro 1 */
+.foro_1 {
+ text-align: center;
+}
+
+/* cuestionario 2 */
+.cuestionario_2 {
+ text-align: center;
+}
+
+/* Audio 2 */
+.audio2 {
+ text-align: center;
+}
+
+/* foro_2 */
+
+.foro_2 {
+ text-align: center;
+}

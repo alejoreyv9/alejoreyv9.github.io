@@ -1,0 +1,77 @@
+body {
+ font-family: 'Montserrat', sans-serif;
+ background-color: D8D8D8;
+ margin: 0;
+ padding: 0;
+}
+
+header {
+ background-color: #6E7C7C;
+ color: white;
+ text-align: center;
+ padding: 1em;
+}
+
+section {
+ margin: 20px;
+}
+
+#Presen {
+ text-align: center;
+ margin: 20px;
+}
+
+#fase {
+ text-align: center;
+}
+
+#aficiones {
+ text-align: center;
+}
+
+
+#seleccion {
+ text-align: center;
+ color: rgb(0, 0, 0);
+}
+
+
+#seleccion .titulos .seleccionMultiple {
+ margin: 0 0 50px;
+}
+
+#seleccion .titulos h2 {
+ text-align: center;
+ margin: 0 0 30px;
+ font-size: 30px;
+}
+
+#seleccion .titulos .seleccionMultiple {
+ width: 940px;
+ margin: 25px auto;
+ background-color: #86ABA1;
+ border-radius: 50px;
+
+}
+
+#seleccion .titulos .seleccionMultiple a {
+ font-size: 30px;
+ line-height: 60px;
+ text-decoration: none;
+ color: white;
+}
+
+#seleccion .titulos .seleccionMultiple:hover {
+ box-shadow: 0px 0px 20px #DFF3E3;
+}
+
+footer {
+ text-align: center;
+ background: #6E7C7C;
+ padding: 20px;
+}
+
+
+
+
+/* Personaliza el estilo según tus preferencias */

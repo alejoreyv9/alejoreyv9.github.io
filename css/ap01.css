@@ -1,0 +1,38 @@
+body {
+ font-family: 'Montserrat', sans-serif;
+}
+
+header {
+ background-color: #333;
+ color: white;
+ text-align: center;
+ padding: 1em;
+}
+
+header .homeInicio {
+ position: absolute;
+ top: 40px;
+ right: 150px;
+ width: 50px;
+}
+
+
+/* Cuestionario */
+
+.imgCuestionario {
+ text-align: center;
+}
+
+/* Video presentacion */
+.vidoPresentaMotiva {
+ text-align: center;
+}
+
+/* PDF Folleto */
+.pdf {
+ text-align: center;
+}
+
+.pdfInfografia {
+ text-align: center;
+}
