@@ -22,12 +22,16 @@ section {
  margin: 20px;
 }
 
-#fase {
- text-align: center;
+p {
+ text-align: justify;
 }
 
 #aficiones {
  text-align: center;
+}
+
+#aficiones div {
+ text-align: justify;
 }
 
 
@@ -70,6 +74,11 @@ footer {
  text-align: center;
  background: #6E7C7C;
  padding: 91px;
+}
+
+footer .texto_footer {
+ text-align: center;
+ color: #ffffff;
 }
 
 
