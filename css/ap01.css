@@ -1,13 +1,14 @@
 body {
  font-family: 'Montserrat', sans-serif;
- background-color: #d9e3ed;
+ background-color: #e0f2fb;
 }
 
 header {
- background-color: #f3404f;
+ background-color: #0090ff;
  color: white;
  text-align: center;
  padding: 1em;
+ text-shadow: 2px -2px 4px grey;
 }
 
 header .homeInicio {

@@ -1,16 +1,17 @@
 body {
  font-family: 'Montserrat', sans-serif;
- background-color: #D8D8D8;
+ background-color: #e0f2fb;
  background-size: cover;
  margin: 0;
  padding: 0;
 }
 
 header {
- background-color: #6E7C7C;
+ background-color: #0090ff;
  color: white;
  text-align: center;
  padding: 1em;
+ text-shadow: 2px -2px 4px grey;
 }
 
 section {
@@ -63,7 +64,7 @@ p {
 #seleccion .titulos .seleccionMultiple {
  width: 940px;
  margin: 25px auto;
- background-color: #86ABA1;
+ background-color: #0090ff;
  border-radius: 50px;
 
 }
@@ -76,12 +77,12 @@ p {
 }
 
 #seleccion .titulos .seleccionMultiple:hover {
- box-shadow: 0px 0px 20px #DFF3E3;
+ box-shadow: 0px 0px 20px #000000;
 }
 
 footer {
  text-align: center;
- background: #6E7C7C;
+ background: #0090ff;
  padding: 91px;
 }
 
