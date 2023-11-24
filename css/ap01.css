@@ -1,9 +1,10 @@
 body {
  font-family: 'Montserrat', sans-serif;
+ background-color: #d9e3ed;
 }
 
 header {
- background-color: #333;
+ background-color: #f3404f;
  color: white;
  text-align: center;
  padding: 1em;
@@ -23,16 +24,57 @@ header .homeInicio {
  text-align: center;
 }
 
+.cuestionario_1 p {
+ font-weight: 500;
+ text-align: center;
+ padding: 40px;
+}
+
+.cuestionario_1 h1 {
+ width: 80%;
+ height: 80%;
+ margin: 0 auto;
+ font-size: 35px;
+ overflow-y: auto;
+ text-shadow: 2px -2px 4px grey;
+}
+
 /* Video presentacion */
 .vidoPresentaMotiva {
  text-align: center;
 }
 
-/* PDF Folleto */
-.pdf {
+.videoPrese h1 {
+ width: 80%;
+ height: 80%;
+ margin: 0 auto;
+ font-size: 35px;
+ overflow-y: auto;
+ text-shadow: 2px -2px 4px grey;
+}
+
+.videoPrese p {
+ font-weight: 500;
  text-align: center;
+ padding: 40px;
+}
+
+/* PDF Folleto */
+.folleto h1 {
+ width: 80%;
+ height: 80%;
+ margin: 0 auto;
+ font-size: 35px;
+ overflow-y: auto;
+ text-shadow: 2px -2px 4px grey;
 }
 
 .pdfInfografia {
  text-align: center;
+}
+
+.folleto p {
+ font-weight: 500;
+ text-align: center;
+ padding: 40px;
 }

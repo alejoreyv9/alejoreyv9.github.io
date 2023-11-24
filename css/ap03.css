@@ -1,9 +1,10 @@
 body {
  font-family: 'Montserrat', sans-serif;
+ background-color: #d9e3ed;
 }
 
 header {
- background-color: #333;
+ background-color: #f3404f;
  color: white;
  text-align: center;
  padding: 1em;
@@ -17,32 +18,122 @@ header .homeInicio {
 }
 
 /* Cuestionario 1 */
+
+.cuest h1 {
+ width: 80%;
+ height: 80%;
+ margin: 0 auto;
+ font-size: 35px;
+ overflow-y: auto;
+ text-shadow: 2px -2px 4px grey;
+}
+
 .cuestionario_1 {
  text-align: center;
 }
 
+.cuest p {
+ font-weight: 500;
+ text-align: center;
+ padding: 40px;
+}
+
 /* Aduio1 */
+.Audi1 h1 {
+ width: 80%;
+ height: 80%;
+ margin: 0 auto;
+ font-size: 35px;
+ overflow-y: auto;
+ text-shadow: 2px -2px 4px grey;
+}
+
 .audio1 {
  text-align: center;
 }
 
+.Audi1 p {
+ font-weight: 500;
+ text-align: center;
+ padding: 40px;
+}
+
 /* Foro 1 */
+.For1 h1 {
+ width: 80%;
+ height: 80%;
+ margin: 0 auto;
+ font-size: 35px;
+ overflow-y: auto;
+ text-shadow: 2px -2px 4px grey;
+}
+
 .foro_1 {
  text-align: center;
 }
 
+.For1 p {
+ font-weight: 500;
+ text-align: center;
+ padding: 40px;
+}
+
 /* cuestionario 2 */
+.Cuestio2 h1 {
+ width: 80%;
+ height: 80%;
+ margin: 0 auto;
+ font-size: 35px;
+ overflow-y: auto;
+ text-shadow: 2px -2px 4px grey;
+}
+
 .cuestionario_2 {
  text-align: center;
 }
 
+.Cuestio2 p {
+ font-weight: 500;
+ text-align: center;
+ padding: 40px;
+}
+
 /* Audio 2 */
+.adui2 h1 {
+ width: 80%;
+ height: 80%;
+ margin: 0 auto;
+ font-size: 35px;
+ overflow-y: auto;
+ text-shadow: 2px -2px 4px grey;
+}
+
 .audio2 {
  text-align: center;
 }
 
+.adui2 p {
+ font-weight: 500;
+ text-align: center;
+ padding: 40px;
+}
+
 /* foro_2 */
+.for2 h1 {
+ width: 80%;
+ height: 80%;
+ margin: 0 auto;
+ font-size: 35px;
+ overflow-y: auto;
+ text-shadow: 2px -2px 4px grey;
+}
 
 .foro_2 {
  text-align: center;
+}
+
+.for2 p {
+ font-weight: 500;
+ text-align: center;
+ padding: 40px;
 }

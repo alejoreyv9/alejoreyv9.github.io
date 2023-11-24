@@ -22,12 +22,20 @@ section {
  margin: 20px;
 }
 
+#Presen h2 {
+ text-shadow: 2px -2px 4px grey;
+}
+
 p {
  text-align: justify;
 }
 
 #aficiones {
  text-align: center;
+}
+
+#aficiones h2 {
+ text-shadow: 2px -2px 4px grey;
 }
 
 #aficiones div {
@@ -49,6 +57,7 @@ p {
  text-align: center;
  margin: 0 0 30px;
  font-size: 30px;
+ text-shadow: 2px -2px 4px grey;
 }
 
 #seleccion .titulos .seleccionMultiple {
