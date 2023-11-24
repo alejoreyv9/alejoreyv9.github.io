@@ -4,11 +4,17 @@ body {
 }
 
 header {
+ position: fixed;
+ top: 0;
+ left: 0;
+ width: 100%;
+ z-index: 9999;
  background-color: #0090ff;
  color: white;
  text-align: center;
  padding: 1em;
- text-shadow: 2px -2px 4px grey;
+ box-shadow: 2px -2px 4px gray;
+
 }
 
 header .homeInicio {
@@ -16,6 +22,11 @@ header .homeInicio {
  top: 40px;
  right: 150px;
  width: 50px;
+}
+
+main {
+ margin-top: 150px;
+ /* Ajusta este valor según sea necesario */
 }
 
 /* Cuestionario 1 */
